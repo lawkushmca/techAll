@@ -1,0 +1,3 @@
+// create admin for login -- first login --
+Go to project directory and run this command
+php artisan db:seed --class=AdminSeeder
